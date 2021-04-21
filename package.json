@@ -1,0 +1,19 @@
+{
+  "name": "swiper-tool",
+  "version": "1.0.0",
+  "description": "swiper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://swiper-tool:Qaz741++@github.com/swiper-tool/swiper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swiper-tool/swiper/issues"
+  },
+  "homepage": "https://github.com/swiper-tool/swiper#readme"
+}
